@@ -9,7 +9,7 @@ https://www.dasletzteluftschiff.de
 
 16 4K images from Winter 2019 - 2020
 
-![Winter Desktop GIF](winter_desktop.gif)
+![Winter Desktop GIF](winter_desktop-min.gif)
 
 [Download!](https://bmsalamanca.com/others/tempWu/Das%20letzte%20Luftschiff.heic)
 
