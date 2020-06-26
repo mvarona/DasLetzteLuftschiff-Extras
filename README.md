@@ -21,10 +21,10 @@ Download it and set it as desktop image!
 Download, install the shortcuts and ask Siri for the temperature at the sculpture!
 
 ## English: At what temperature is the sculpture?
-[Download!](https://www.icloud.com/shortcuts/5c95f0585f0e42acadd5065a00b3601a)
+[Download!](https://www.icloud.com/shortcuts/fc518ea64876494083aac35d3d0f7813)
 
 ## German: Wie ist die Temperatur des letzten Luftschiffs?
-[Herunterladen!](https://www.icloud.com/shortcuts/15fab9f296c64bad989440e2787059b0)
+[Herunterladen!](https://www.icloud.com/shortcuts/decff21f58204b83a990cd19777ca4dd)
 
 ## Spanish: ¿A qué temperatura está la escultura?
-[Descargar!](https://www.icloud.com/shortcuts/d9974ad79f3347729f1f97ac0a624039)
+[Descargar!](https://www.icloud.com/shortcuts/cc1410623fbb41c8b051c0007647f03d)
