@@ -35,7 +35,7 @@ Download, install the shortcuts and ask Siri for the temperature at the sculptur
 Console application for creating dynamic wallpapers for macOS Mojave
 
 [Solar angle and azimuth calculus](https://keisan.casio.com/exec/system/1224682277)<br/>
-Solar elevation angle (for a day) Calculator, Keisan - Casio
+Solar elevation angle (for a day) calculator, Keisan - Casio
 
 [Das Letzte Luftschiff](https://www.dasletzteluftschiff.de)<br/>
 [Michael Ehlers](https://www.ehlers-media.com)<br/>
