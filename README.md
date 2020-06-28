@@ -28,3 +28,15 @@ Download, install the shortcuts and ask Siri for the temperature at the sculptur
 
 ## Spanish: ¿A qué temperatura está la escultura?
 [Descargar!](https://www.icloud.com/shortcuts/cc1410623fbb41c8b051c0007647f03d)
+
+# Acknowledgments
+
+[Wallpapper, @mczachurski!](https://github.com/mczachurski/wallpapper)
+Console application for creating dynamic wallpapers for macOS Mojave
+
+[Solar angle and azimuth calculus](https://keisan.casio.com/exec/system/1224682277)
+Solar elevation angle (for a day) Calculator, Keisan - Casio
+
+[Das Letzte Luftschiff](https://www.dasletzteluftschiff.de)
+[Michael Ehlers](https://www.ehlers-media.com)
+Inspiring sculpture at Hubland, Würzburg, Germany
