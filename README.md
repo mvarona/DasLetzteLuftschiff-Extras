@@ -31,12 +31,12 @@ Download, install the shortcuts and ask Siri for the temperature at the sculptur
 
 # Acknowledgments
 
-[Wallpapper, @mczachurski!](https://github.com/mczachurski/wallpapper)
+[Wallpapper, @mczachurski!](https://github.com/mczachurski/wallpapper)<br/>
 Console application for creating dynamic wallpapers for macOS Mojave
 
-[Solar angle and azimuth calculus](https://keisan.casio.com/exec/system/1224682277)
+[Solar angle and azimuth calculus](https://keisan.casio.com/exec/system/1224682277)<br/>
 Solar elevation angle (for a day) Calculator, Keisan - Casio
 
-[Das Letzte Luftschiff](https://www.dasletzteluftschiff.de)
-[Michael Ehlers](https://www.ehlers-media.com)
+[Das Letzte Luftschiff](https://www.dasletzteluftschiff.de)<br/>
+[Michael Ehlers](https://www.ehlers-media.com)<br/>
 Inspiring sculpture at Hubland, Würzburg, Germany
