@@ -11,7 +11,7 @@ https://www.dasletzteluftschiff.de
 
 ![Winter Desktop GIF](winter_desktop-min.gif)
 
-[Download!](https://bmsalamanca.com/others/tempWu/Das%20letzte%20Luftschiff.heic)
+[Download!](https://github.com/mvarona/dasletzteluftschiff-extras/blob/master/dasLetzteLuftschiff_Winter.heic?raw=true)
 
 Download it and set it as desktop image!
 
